@@ -3,12 +3,12 @@ using namespace std;
 
 void num(int x)
 {
-    cout << "Integer: " << x << endl; 
+    cout << "Integer is: " << x << endl; 
 }
 
 void num(double x)
 {
-    cout << "Double: " << x << endl; 
+    cout << "Double is: " << x << endl; 
 }
 
 int main()
