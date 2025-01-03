@@ -1,14 +1,14 @@
 #include <iostream>  
 using namespace std;
 
-void num(int x)
+void num(int y)
 {
-    cout << "Integer is: " << x << endl; 
+    cout << "Integer is: " << y << endl; 
 }
 
-void num(double x)
+void num(double z)
 {
-    cout << "Double is: " << x << endl; 
+    cout << "Double is: " << z << endl; 
 }
 
 int main()
