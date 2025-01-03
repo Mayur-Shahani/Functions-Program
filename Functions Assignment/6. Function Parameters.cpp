@@ -1,13 +1,13 @@
 #include <iostream>  
 using namespace std; 
-int product(int x, int y)
+int product(int a, int b)
 {
-    return x * y; 
+    return a * b; 
 }
 
 int main()
 {
-    cout << "Product: " << product(9, 9) << endl;
+    cout << "Product: " << product(9, 10) << endl;
 
     return 0;
 }
